@@ -3,7 +3,7 @@ body {
     height: 100%;
     font-size: 18px;
     background-color: #dedddd;
-    background-image: url("assets/images/background.png");
+    background-image: url("../images/background.png");
 }
 a.navbar-brand {
     height: auto;
